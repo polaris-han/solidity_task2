@@ -21,4 +21,10 @@ npx hardhat init
 
 # dotenv 安装
 npm install dotenv
+
+# 部署MTK到sepolia
+npx hardhat run ./ignition/modules/deploy.js --network sepolia
+
+# 导入代币到MetaMask
+# 代币 - Sepolia网络 - 竖三点 - 添加代币 - 自定义代币 - Sepolia & 代币合约地址 - 导入
 ```
