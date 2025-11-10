@@ -1,0 +1,11 @@
+{
+  "name": "My First NFT",
+  "description": "Solidity 作业",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeicbn27tb2ur2mdytfajidi3p532htw2otniazgquokvehx7agnr64",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
